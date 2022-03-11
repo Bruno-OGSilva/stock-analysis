@@ -12,6 +12,7 @@ initial code, it was taking 0.890625 seconds to run and with the refactored code
 scenario for 2018, in which the time to run it decreases from 0.875 to 0.15625 seconds.
 
 **Summary**
+
 The main disadvantage of refactoring a code is that it consumes a lot of time and it is hard to know where to start from.
 The advantage is that you are improving a code that already exists, so it will improve performance, it will be easier to maintain it
 and it probably will be less complex than the initial version.
